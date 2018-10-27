@@ -1,0 +1,13 @@
+[Core]
+name = test
+module = test
+
+[Documentation]
+description = testing inputs
+
+[Python]
+version = 3
+
+[Errbot]
+min = 5.2.0
+
